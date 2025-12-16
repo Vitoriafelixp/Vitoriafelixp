@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.picasion.com/pic91/14104347a3f4b4a253bd8ec5f09ca767.gif" />
-</div>
-
 <h3 align="center">💙 Olá, tudo bem? Me chamo Vitória Felix! 💙</h3>
 
 <div align="center">
