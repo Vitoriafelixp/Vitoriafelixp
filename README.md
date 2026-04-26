@@ -1,4 +1,4 @@
-<h3 align="center">💙 Olá, tudo bem? Me chamo Vitória Felix! 💙</h3>
+<h3 align="center"> Olá, tudo bem? Me chamo Vitória Felix! </h3>
 
 </div>
 
