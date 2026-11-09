@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-2AA089?style=flat-square" />
-  <img src="https://img.shields.io/badge/AWS-2AA089?style=flat-square" />
-  <img src="https://img.shields.io/badge/Payments-1F6F5F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Fintech-1F6F5F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Go-D5F0E8?style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS-D5F0E8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Payments-D5F0E8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Fintech-D5F0E8?style=flat-square" />
 </p>
 
 ---
