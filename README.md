@@ -26,12 +26,12 @@ Software engineering intern at a card payment acquirer, working with **Go** and 
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vifelixp&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7EE0C3&icon_color=7EE0C3&text_color=C9D1D9&ring_color=7EE0C3&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=7EE0C3&text_color=C9D1D9&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vitoriafelixp&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7EE0C3&icon_color=7EE0C3&text_color=C9D1D9&ring_color=7EE0C3&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoriafelixp&layout=compact&hide_border=true&bg_color=0D1117&title_color=7EE0C3&text_color=C9D1D9&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vifelixp&bg_color=0D1117&color=7EE0C3&line=7EE0C3&point=C9D1D9&area=true&area_color=7EE0C3&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vitoriafelixp&bg_color=0D1117&color=7EE0C3&line=7EE0C3&point=C9D1D9&area=true&area_color=7EE0C3&hide_border=true" />
 </p>
 
 ## Contact
