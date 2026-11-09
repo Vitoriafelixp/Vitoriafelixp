@@ -30,9 +30,6 @@ Software engineering intern at a card payment acquirer, working with **Go** and 
   <img height="180" src="https://raw.githubusercontent.com/Vitoriafelixp/Vitoriafelixp/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vitoriafelixp&bg_color=0D1117&color=7EE0C3&line=7EE0C3&point=C9D1D9&area=true&area_color=7EE0C3&hide_border=true" />
-</p>
 
 ## Contact
 
