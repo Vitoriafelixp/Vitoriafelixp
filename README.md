@@ -26,8 +26,8 @@ Software engineering intern at a card payment acquirer, working with **Go** and 
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vitoriafelixp&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7EE0C3&icon_color=7EE0C3&text_color=C9D1D9&ring_color=7EE0C3&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoriafelixp&layout=compact&hide_border=true&bg_color=0D1117&title_color=7EE0C3&text_color=C9D1D9&langs_count=6" />
+  <img height="180" src="https://raw.githubusercontent.com/Vitoriafelixp/Vitoriafelixp/main/profile-summary-card-output/github_dark/3-stats.svg" />
+  <img height="180" src="https://raw.githubusercontent.com/Vitoriafelixp/Vitoriafelixp/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
