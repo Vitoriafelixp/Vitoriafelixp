@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Vi</h1>
 
 <p align="center">
-  Software Engineer · Backend · Payments & Fintech
+  Software Engineer · Backend
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=7EE0C3&labelColor=0D1117&color=30363D" />
-  <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=7EE0C3&labelColor=0D1117&color=30363D" />
-  <img src="https://img.shields.io/badge/Payments-0D1117?style=flat-square&labelColor=0D1117&color=30363D" />
-  <img src="https://img.shields.io/badge/Fintech-0D1117?style=flat-square&labelColor=0D1117&color=30363D" />
+  <img src="https://img.shields.io/badge/Go-1F6F5F?style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS-1F6F5F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Payments-1F6F5F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Fintech-1F6F5F?style=flat-square" />
 </p>
 
 ---
