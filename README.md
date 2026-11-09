@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-1F6F5F?style=flat-square" />
-  <img src="https://img.shields.io/badge/AWS-1F6F5F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Go-2AA089?style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS-2AA089?style=flat-square" />
   <img src="https://img.shields.io/badge/Payments-1F6F5F?style=flat-square" />
   <img src="https://img.shields.io/badge/Fintech-1F6F5F?style=flat-square" />
 </p>
