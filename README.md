@@ -6,9 +6,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-D5F0E8?style=flat" />
-  <img src="https://img.shields.io/badge/AWS-D5F0E8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Payments-D5F0E8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Fintech-D5F0E8?style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS-D5F0E8?style=flat" />
+  <img src="https://img.shields.io/badge/Payments-D5F0E8?style=flat" />
+  <img src="https://img.shields.io/badge/Fintech-D5F0E8?style=flat" />
 </p>
 
 ---
